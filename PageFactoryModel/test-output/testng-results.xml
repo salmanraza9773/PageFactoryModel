@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is launched.]]>
+    </line>
+    <line>
+      <![CDATA[QA AUTOMATION is Displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Practice Automation is Displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Registration Form is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Title is Displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Actual and Expected title are same.]]>
+    </line>
+    <line>
+      <![CDATA[The Title is Register For Demo.]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[The First Name is Salman.]]>
+    </line>
+    <line>
+      <![CDATA[The Last Name is Raza.]]>
+    </line>
+    <line>
+      <![CDATA[Gender - Male is selected.]]>
+    </line>
+    <line>
+      <![CDATA[The Street address is A/12]]>
+    </line>
+    <line>
+      <![CDATA[The Apartment Number is 13.]]>
+    </line>
+    <line>
+      <![CDATA[The City is Siwan.]]>
+    </line>
+    <line>
+      <![CDATA[The State is Bihar.]]>
+    </line>
+    <line>
+      <![CDATA[The Zip code is 841226.]]>
+    </line>
+    <line>
+      <![CDATA[Country India is Selected.]]>
+    </line>
+    <line>
+      <![CDATA[The Email ID is salmanraza1306@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[The Date Of Demo is 07/07/2022.]]>
+    </line>
+    <line>
+      <![CDATA[The Convenient Time HH "12" is Selected.]]>
+    </line>
+    <line>
+      <![CDATA[The Convenient Time MM "05" is Selected.]]>
+    </line>
+    <line>
+      <![CDATA[The Mobile Number is 9773782033.]]>
+    </line>
+    <line>
+      <![CDATA[The UFT CheckBox is selected.]]>
+    </line>
+    <line>
+      <![CDATA[The TestNG CheckBox is selected.]]>
+    </line>
+    <line>
+      <![CDATA[The Query is How to opt for UFT Course.]]>
+    </line>
+    <line>
+      <![CDATA[Verification Number is 99.]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Submit button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[The Actual and Expected Message of Successful Registration are Same.]]>
+    </line>
+    <line>
+      <![CDATA[The Succesful message is validated.]]>
+    </line>
+    <line>
+      <![CDATA[The Successful Registration Message is - Registration Form is Successfully Submitted. The Transaction ID : NXTGEN1937465.]]>
+    </line>
+    <line>
+      <![CDATA[The Transaction Id is NXTGEN1937465.]]>
+    </line>
+    <line>
+      <![CDATA[Application is closed.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-13T23:33:03 IST" name="Automation Suite" finished-at="2022-08-13T23:33:21 IST" duration-ms="18651">
+    <groups>
+    </groups>
+    <test started-at="2022-08-13T23:33:03 IST" name="RegisterDemoTest" finished-at="2022-08-13T23:33:21 IST" duration-ms="18651">
+      <class name="com.telus.testcases.RegisterDemoEndToEnd">
+        <test-method signature="launchApplication()[pri:1, instance:com.telus.testcases.RegisterDemoEndToEnd@15eb5ee5]" started-at="2022-08-13T23:33:03 IST" name="launchApplication" finished-at="2022-08-13T23:33:15 IST" duration-ms="12078" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is launched.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="navigateToRegistrationForm()[pri:2, instance:com.telus.testcases.RegisterDemoEndToEnd@15eb5ee5]" started-at="2022-08-13T23:33:15 IST" name="navigateToRegistrationForm" finished-at="2022-08-13T23:33:17 IST" duration-ms="2368" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[QA AUTOMATION is Displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Practice Automation is Displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Registration Form is clicked.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigateToRegistrationForm -->
+        <test-method signature="registerNewUser()[pri:3, instance:com.telus.testcases.RegisterDemoEndToEnd@15eb5ee5]" started-at="2022-08-13T23:33:17 IST" name="registerNewUser" finished-at="2022-08-13T23:33:21 IST" duration-ms="3999" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Actual and Expected title are same.]]>
+            </line>
+            <line>
+              <![CDATA[The Title is Register For Demo.]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[The First Name is Salman.]]>
+            </line>
+            <line>
+              <![CDATA[The Last Name is Raza.]]>
+            </line>
+            <line>
+              <![CDATA[Gender - Male is selected.]]>
+            </line>
+            <line>
+              <![CDATA[The Street address is A/12]]>
+            </line>
+            <line>
+              <![CDATA[The Apartment Number is 13.]]>
+            </line>
+            <line>
+              <![CDATA[The City is Siwan.]]>
+            </line>
+            <line>
+              <![CDATA[The State is Bihar.]]>
+            </line>
+            <line>
+              <![CDATA[The Zip code is 841226.]]>
+            </line>
+            <line>
+              <![CDATA[Country India is Selected.]]>
+            </line>
+            <line>
+              <![CDATA[The Email ID is salmanraza1306@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[The Date Of Demo is 07/07/2022.]]>
+            </line>
+            <line>
+              <![CDATA[The Convenient Time HH "12" is Selected.]]>
+            </line>
+            <line>
+              <![CDATA[The Convenient Time MM "05" is Selected.]]>
+            </line>
+            <line>
+              <![CDATA[The Mobile Number is 9773782033.]]>
+            </line>
+            <line>
+              <![CDATA[The UFT CheckBox is selected.]]>
+            </line>
+            <line>
+              <![CDATA[The TestNG CheckBox is selected.]]>
+            </line>
+            <line>
+              <![CDATA[The Query is How to opt for UFT Course.]]>
+            </line>
+            <line>
+              <![CDATA[Verification Number is 99.]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Submit button is clicked.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerNewUser -->
+        <test-method signature="succMsgValidation()[pri:4, instance:com.telus.testcases.RegisterDemoEndToEnd@15eb5ee5]" started-at="2022-08-13T23:33:21 IST" name="succMsgValidation" finished-at="2022-08-13T23:33:21 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The Actual and Expected Message of Successful Registration are Same.]]>
+            </line>
+            <line>
+              <![CDATA[The Succesful message is validated.]]>
+            </line>
+            <line>
+              <![CDATA[The Successful Registration Message is - Registration Form is Successfully Submitted. The Transaction ID : NXTGEN1937465.]]>
+            </line>
+            <line>
+              <![CDATA[The Transaction Id is NXTGEN1937465.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- succMsgValidation -->
+        <test-method signature="closeApplication()[pri:5, instance:com.telus.testcases.RegisterDemoEndToEnd@15eb5ee5]" started-at="2022-08-13T23:33:21 IST" name="closeApplication" finished-at="2022-08-13T23:33:21 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is closed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.telus.testcases.RegisterDemoEndToEnd -->
+    </test> <!-- RegisterDemoTest -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
